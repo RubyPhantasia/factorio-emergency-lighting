@@ -1,0 +1,1 @@
+require("prototypes.lamp_based_lamps")

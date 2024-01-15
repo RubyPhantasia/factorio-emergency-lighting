@@ -1,0 +1,9 @@
+{
+    "name": "emergency-lighting",
+    "version": "0.0.1",
+    "title": "Emergency Lighting Mod",
+    "author": "RubyPhantasia",
+    "factorio_version": "1.1",
+    "dependencies": [],
+    "description": "Adds emergency lights - low power lights that can be used to light up critical areas of your base if power goes out."
+}
